@@ -5,5 +5,6 @@ The code will take a postfix expression as input(supported for the numbers only)
 
 For Example,
 
-Postfix : 10 15 + 20 *
+Postfix : 10 15 + 20 
+
 Result : 10 + 15* 20 = 500
